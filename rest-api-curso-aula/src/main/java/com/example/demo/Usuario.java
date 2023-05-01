@@ -16,4 +16,12 @@ public class Usuario {
     String nome;
     String sobrenome;
     int idade;
+    String email;
+    String dataDeNascimento;
+    Sexo sexo;
+    long cpf;
+    int ddd;
+    long telefone;
+    NivelDeAcesso nivelDeAcesso;
+    
 }
